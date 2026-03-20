@@ -1,0 +1,7 @@
+fastapi
+psycopg2
+sqlalchemy==1.4.52
+uvicorn
+pydantic
+
+# pip install -r requirements.txt
